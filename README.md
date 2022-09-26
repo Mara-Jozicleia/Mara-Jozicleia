@@ -1,6 +1,6 @@
 ### Hi there 👋 ! I'm Mara Jozicleia
 
-- 🌱 I’m currently learning: Big Data | Python | Java
+- 🌱 I’m currently learning: Swift iOS
 - 😄 Pronouns: She/Her
 
  <div>
